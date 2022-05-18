@@ -23,7 +23,7 @@ elif action == "South":
     print("\nOkay, you are going South")                                                         #If the user answers "South" prints "you are going South"
 elif action == "south":
     print("\nOkay, you are going South")                                                         #If the user answers "south" prints "you are going South"
-elif action == "W=East":
+elif action == "East":
     print("\nOkay, you are going East")                                                          #If the user answers "East" prints "you are going East"
 elif action == "east":
     print("\nOkay, you are going East")                                                          #If the user answers "east" prints "you are going East"
